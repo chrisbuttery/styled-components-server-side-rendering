@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/Jobeir/styled-components-server-side-rendering/images/banner.png" alt="The guide to server side rendering React with Styled Components"/>
+<img width="100%" src="https://raw.githubusercontent.com/Jobeir/styled-components-server-side-rendering/master/images/banner.png" alt="The guide to server side rendering React with Styled Components"/>
 <br/>
 
 # The guide to server side rendering React with Styled Components
