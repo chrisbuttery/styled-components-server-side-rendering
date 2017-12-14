@@ -1,6 +1,9 @@
 <img width="100%" src="https://raw.githubusercontent.com/Jobeir/styled-components-server-side-rendering/master/images/banner.png" alt="The guide to server side rendering React with Styled Components"/>
 <br/>
 
+📘 [Read the Medium article published to Styled Components](https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-react-with-styled-components-d31c6b2b8fbf) for the complete guide.
+
+
 # The guide to server side rendering React with Styled Components
 
 Teaching the core concepts between React server side rendering and styled
